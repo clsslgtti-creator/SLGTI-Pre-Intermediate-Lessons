@@ -124,47 +124,47 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.jpeg",
-        "word": "tired/rested"
+        "word": "oil drain pan/ maroon mats"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "on time/late"
+        "word": "wheel chocks / beige shelves"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.jpeg",
-        "word": "satisfied/disappointed"
+        "word": "coolant container / lime green buckets"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "cold/hot"
+        "word": "seat covers / navy blue boxes"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "tasty/awful"
+        "word": "inspection mirrors /  silver trays"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "sad/cheerful"
+        "word": "tyre pressure chart / brown  rags "
       },
       {
         "id": "k_7",
         "image": "assets/img/a_2_d_7.png",
-        "word": "cold/hot"
+        "word": "fender covers / black stands"
       },
       {
         "id": "k_8",
         "image": "assets/img/a_2_d_8.png",
-        "word": "tasty/awful"
+        "word": "fire extinguisher / dark red cones"
       },
       {
         "id": "k_9",
         "image": "assets/img/a_2_d_9.png",
-        "word": "sad/cheerful"
+        "word": "battery warning sticker / turquoise labels"
       }
     ],
     "dialogues": [

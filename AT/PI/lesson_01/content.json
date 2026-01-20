@@ -1,0 +1,591 @@
+{
+  "meta": {
+    "lesson_no": 14,
+    "level": "Pre-Intermediate",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /aʊ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "s'ou'nd",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Check the engine s'ou'nd carefully.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "m'ou'nt",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "He always m'ou'nts the battery on the holder properly.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "l'ou'd",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The horn is making  a l'ou'd s'ou'nd now.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.jpeg"
+      },
+      {
+        "id": "p_4",
+        "word_text": "b'ou'nce",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Do not b'ou'nce the tyre too much.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-2",
+    "focus": "Focus Contrast between the Simple Present Tense and the Present Continuous Tense",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Read the answer and use the pause to ask the correct question. Then compare your response with the model question.\n පිළිතුර කියවා නිවැරදි ප්‍රශ්නය ඇසීමට විරාමය භාවිතා කරන්න. ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\n பதிலைக் கவனமாக வாசித்து, இடைவெளியில் சரியான கேள்வியை கேளுங்கள். பின்னர் உங்கள் கேள்வியை மாதிரி கேள்வியுடன் ஒப்பிடவும்.",
+        "audio": "assets/audio/a_2_i_f.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["I am crying because I am sad.", "I always cry when I am sad."],
+        [
+          "(NOW- Present Continuous)",
+          "(HABIT,ROUTINE,PATTERN - Simple Present)"
+        ]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "e_1",
+        "img": "assets/img/a_2_ex_1.jpeg",
+        "text_a": "Why are you drinking king coconut?",
+        "text_b": "I am drinking it because I am dehydrated.",
+        "text_c": "I always drink it when I am dehydrated.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_1_b.mp3",
+        "audio_c": "assets/audio/a_2_ex_1_c.mp3"
+      },
+      {
+        "id": "e_2",
+        "img": "assets/img/a_2_ex_2.jpeg",
+        "text_a": "Why are you biting your lips?",
+        "text_b": "I am biting them because I’m nervous.",
+        "text_c": "I always bite my lips when I am nervous.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_2_b.mp3",
+        "audio_c": "assets/audio/a_2_ex_2_c.mp3"
+      },
+      {
+        "id": "e_3",
+        "img": "assets/img/a_2_ex_3.png",
+        "text_a": "Why are you lying down?",
+        "text_b": "I am lying down because I am exhausted.",
+        "text_c": "I always lie down when I am exhausted.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_3_b.mp3",
+        "audio_c": "assets/audio/a_2_ex_3_c.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_1.png",
+        "word": "checking the tyre pressure"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_2.png",
+        "word": "cleaning the air filter"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_3.png",
+        "word": "tightening the wheel nuts"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "replacing the spark plugs"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "washing the car"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "the torque wrench"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Why are you checking the tyre pressure?",
+        "text_b": "I’m checking it because I’m travelling a long distance.",
+        "text_c": "I always check it before I travel a long distance.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Why are you cleaning the air filter?",
+        "text_b": "I’m cleaning it because it’s full of dust.",
+        "text_c": "I always clean it after every service.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Why are you tightening the wheel nuts?",
+        "text_b": "I’m tightening them because they are loose.",
+        "text_c": "I always tighten them before a road test.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Why are you replacing the spark plugs?",
+        "text_b": "I’m replacing them because they are worn out.",
+        "text_c": "I always replace them after 5,000 kilometres.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Why are you washing the car?",
+        "text_b": "I’m washing it because it’s covered with mud.",
+        "text_c": "I always wash it after a repair.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Why are you using the torque wrench?",
+        "text_b": "I’m using it because it gives the correct pressure.",
+        "text_c": "I always use it when fixing cylinder heads.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-5",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "image": "assets/img/a_3_b_1.png",
+            "sentence_1": "The baby ______ because it is hungry.",
+            "options_1": ["are crying", "is crying", "cries", "cry"],
+            "answer_1": "is crying",
+            "sentence_2": "It always ______ when it is hungry.",
+            "options_2": ["cry", "are crying", "is crying", "cries"],
+            "answer_2": "cries",
+            "full_sentance": "The baby is crying because it is hungry. It always cries when it is hungry.",
+            "audio": "assets/audio/a_3_b_1.mp3"
+          },
+          {
+            "id": "g_b_2",
+            "image": "assets/img/a_3_b_2.png",
+            "sentence_1": "She ______ because she is angry.",
+            "options_1": ["screaming", "is screaming", "screams", "scream"],
+            "answer_1": "is screaming",
+            "sentence_2": "She always ______ when she is angry.",
+            "options_2": ["screaming", "is screaming", "screams", "scream"],
+            "answer_2": "screams",
+            "full_sentance": "She is screaming because she is angry. She always screams when she is angry.",
+            "audio": "assets/audio/a_3_b_2.mp3"
+          },
+          {
+            "id": "g_b_3",
+            "image": "assets/img/a_3_b_3.png",
+            "sentence_1": "They ______ because they are cold.",
+            "options_1": ["are shivering", "shiver", "shivering", "shivers"],
+            "answer_1": "are shivering",
+            "sentence_2": "They always ______ when they are cold.",
+            "options_2": ["are shivering", "shiver", "shivering", "shivers"],
+            "answer_2": "shiver",
+            "full_sentance": "They are shivering because they are cold. They always shiver when they are cold.",
+            "audio": "assets/audio/a_3_b_3.mp3"
+          },
+          {
+            "id": "g_b_4",
+            "image": "assets/img/a_3_b_4.png",
+            "sentence_1": "He ______ his nails because he is nervous.",
+            "options_1": ["are bite", "is biting", "bites", "biting"],
+            "answer_1": "is biting",
+            "sentence_2": "He always ______ his nails when he is nervous.",
+            "options_2": ["are bite", "is biting", "bites", "biting"],
+            "answer_2": "bites",
+            "full_sentance": "He is biting his nails because he is nervous. He always bites his nails when he is nervous.",
+            "audio": "assets/audio/a_3_b_4.mp3"
+          },
+          {
+            "id": "g_b_5",
+            "image": "assets/img/a_3_b_5.png",
+            "sentence_1": "She ______ her eyes because she is scared.",
+            "options_1": ["closes", "close", "closing", "is closing"],
+            "answer_1": "is closing",
+            "sentence_2": "She always ______ her eyes when she is scared.",
+            "options_2": ["closes", "close", "closing", "is closing"],
+            "answer_2": "closes",
+            "full_sentance": "She is closing her eyes because she is scared. She always closes her eyes when she is scared.",
+            "audio": "assets/audio/a_3_b_5.mp3"
+          },
+          {
+            "id": "g_b_6",
+            "image": "assets/img/a_3_b_6.png",
+            "sentence_1": "The trainees ______ because they are hot.",
+            "options_1": ["is sweating", "are sweating", "sweats", "sweat"],
+            "answer_1": "are sweating",
+            "sentence_2": "They always ______ when they are hot.",
+            "options_2": ["is sweating", "are sweating", "sweats", "sweat"],
+            "answer_2": "sweat",
+            "full_sentance": "The trainees are sweating because they are hot. They always sweat when they are hot.",
+            "audio": "assets/audio/a_3_b_6.mp3"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_1",
+          "text": "The baby is crying because it is hungry. It always cries when it is hungry.",
+          "audio": "assets/audio/a_3_b_1.mp3"
+        },
+        {
+          "id": "n_3_2",
+          "text": "She is screaming because she is angry. She always screams when she is angry.",
+          "audio": "assets/audio/a_3_b_2.mp3"
+        },
+        {
+          "id": "n_3_3",
+          "text": "They are shivering because they are cold. They always shiver when they are cold.",
+          "audio": "assets/audio/a_3_b_3.mp3"
+        },
+        {
+          "id": "n_3_4",
+          "text": "He is biting his nails because he is nervous. He always bites his nails when he is nervous.",
+          "audio": "assets/audio/a_3_b_4.mp3"
+        },
+        {
+          "id": "n_3_5",
+          "text": "She is closing her eyes because she is scared. She always closes her eyes when she is scared.",
+          "audio": "assets/audio/a_3_b_5.mp3"
+        },
+        {
+          "id": "n_3_6",
+          "text": "The trainees are sweating because they are hot. They always sweat when they are hot.",
+          "audio": "assets/audio/a_3_b_6.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": "Why is Nimal starting work earlier today?",
+            "answer": "Because new trainees are visiting",
+            "options": [
+              "Because he came late yesterday",
+              "Because new trainees are visiting",
+              "Because the trainees asked him"
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question": "Why is he preparing the diagnostic scanner?",
+            "answer": "Because the instructor is demonstrating sensor readings",
+            "options": [
+              "Because the instructor wants him to practise alone",
+              "Because the instructor is demonstrating sensor readings",
+              "Because the old scanner is broken"
+            ]
+          },
+          {
+            "id": "l_4_3",
+            "question": "Why is he sharing tools today?",
+            "answer": "Because Nimal’s toolbox is being repaired",
+            "options": [
+              "Because Amal’s toolbox is being repaired",
+              "Because Nimal’s toolbox is being repaired",
+              "Because the instructor told him to"
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": "Why is Nimal inspecting the cooling fan?",
+            "answer": "Because it is making a strange noise",
+            "options": [
+              "Because it is part of his routine",
+              "Because it is making a strange noise",
+              "Because Amal is making a strange noise"
+            ]
+          },
+          {
+            "id": "l_4_5",
+            "question": "Why is he cleaning the workshop floor this afternoon?",
+            "answer": "Because there has been an oil spill",
+            "options": [
+              "Because it’s his turn on the schedule",
+              "Because there has been an oil spill",
+              "Because the instructor asked"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1_1",
+          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_10.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1_1",
+          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_10.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1_1",
+          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "audio": "assets/audio/t_1_10.mp3"
+        }
+      ]
+    }
+  }
+}

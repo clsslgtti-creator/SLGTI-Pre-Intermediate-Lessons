@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "pinion",
+        "word_text": "p'i'nion",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "A pinion is a small, machined gear that transfers motion between rotating shafts.",
+        "sentence_text": "A p'i'nion is a small, machined gear that transfers motion between rotating shafts.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "bit",
+        "word_text": "b'i't",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "A bit is the sharp cutting part of a drilling device for making holes.",
+        "sentence_text": "A b'i't is the sharp cutting part of a drilling device for making holes.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "jig",
+        "word_text": "j'i'g",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A jig is a tool that holds parts in the same correct position every time.",
+        "sentence_text": "A j'i'g is a tool that holds parts in the same correct position every time.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "bracket",
+        "word_text": "brack'e't",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Strong metal brackets are under the machine frame for additional support.",
+        "sentence_text": "Strong metal brack'e'ts are under the machine frame for additional support.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "f'i'lter",
+        "word_text": "link",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The oil f'i'lter in the combustion engine is very dirty after prolonged testing today.",
+        "sentence_text": "The busbar link is a reliable, low resistance connection inside the distribution panel.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "gask'e't",
+        "word_text": "relay",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Gask'e'ts are essential for preventing leaks of essential fluids like oil, coolant and fuel.",
+        "sentence_text": "The relay faults are recurring in routine panel testing.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.jpeg"
+        "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "r'i'vet",
+        "word_text": "crimp",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A r'i'vet is a permanent, mechanical fastener used to securely join two or more materials.",
+        "sentence_text": "A crimp is a tight connection that holds a wire in place.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpeg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "d'i'pst'i'ck",
+        "word_text": "flick",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Wiping the d'i'pst'i'ck with a cloth before checking the oil level is a common practice.",
+        "sentence_text": "Flicking is a quick movement that changes a switch position.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

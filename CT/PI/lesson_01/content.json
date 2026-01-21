@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "f'i'lter",
+        "word_text": "timber",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The oil f'i'lter in the combustion engine is very dirty after prolonged testing today.",
+        "sentence_text": "The timber in the back of the shed is true and ready for wall framing. ( means not warped or bent) ",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "gask'e't",
+        "word_text": "shim",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Gask'e'ts are essential for preventing leaks of essential fluids like oil, coolant and fuel.",
+        "sentence_text": "The shim plate is a thin plate used to fill small gaps when aligning machinery.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.jpeg"
+        "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "r'i'vet",
+        "word_text": "lintel",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A r'i'vet is a permanent, mechanical fastener used to securely join two or more materials.",
+        "sentence_text": "The lintel  is strong enough to support the doorway above the entrance opening.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpeg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "d'i'pst'i'ck",
+        "word_text": "lift",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Wiping the d'i'pst'i'ck with a cloth before checking the oil level is a common practice.",
+        "sentence_text": "The crane is used to lift huge concrete beams during heavy construction operations.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

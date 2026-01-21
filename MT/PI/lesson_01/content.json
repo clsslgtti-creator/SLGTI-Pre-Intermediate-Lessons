@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "f'i'lter",
+        "word_text": "p'i'nion",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The oil f'i'lter in the combustion engine is very dirty after prolonged testing today.",
+        "sentence_text": "A p'i'nion is a small, machined gear that transfers motion between rotating shafts.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "gask'e't",
+        "word_text": "b'i't",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Gask'e'ts are essential for preventing leaks of essential fluids like oil, coolant and fuel.",
+        "sentence_text": "A b'i't is the sharp cutting part of a drilling device for making holes.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.jpeg"
+        "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "r'i'vet",
+        "word_text": "j'i'g",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A r'i'vet is a permanent, mechanical fastener used to securely join two or more materials.",
+        "sentence_text": "A j'i'g is a tool that holds parts in the same correct position every time.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "d'i'pst'i'ck",
+        "word_text": "brack'e't",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Wiping the d'i'pst'i'ck with a cloth before checking the oil level is a common practice.",
+        "sentence_text": "Strong metal brack'e'ts are under the machine frame for additional support.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -97,24 +97,24 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Where is the oil drain pan?",
-        "text_b": "It is on the left, under the maroon mats.",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Where is the grease gun?",
+        "text_b": "It is on the right, under the maroon mats.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Where are the wheel chocks?",
-        "text_b": "They are on the right, behind the beige shelves.",
+        "text_a": "Where are the machine rollers?",
+        "text_b": "They are on the left, behind the beige shelves.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "Where is the coolant container?",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Where is the coolant pump?",
         "text_b": "It is on the right, above the lime green buckets.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
@@ -123,71 +123,71 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_1.jpeg",
-        "word": "tired/rested"
+        "image": "assets/img/a_2_d_1.png",
+        "word": "grease gun / maroon mats"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "on time/late"
+        "word": "machine rollers / beige shelves"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_3.jpeg",
-        "word": "satisfied/disappointed"
+        "image": "assets/img/a_2_d_3.png",
+        "word": "coolant pump / lime green buckets"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "cold/hot"
+        "word": "protective aprons / navy blue boxes"
       },
       {
         "id": "k_5",
-        "image": "assets/img/a_2_d_5.png",
-        "word": "tasty/awful"
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "inspection gauges / silver trays"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "sad/cheerful"
+        "word": "lubrication chart / white rags"
       },
       {
         "id": "k_7",
         "image": "assets/img/a_2_d_7.png",
-        "word": "cold/hot"
+        "word": "machine covers / black stands"
       },
       {
         "id": "k_8",
-        "image": "assets/img/a_2_d_8.png",
-        "word": "tasty/awful"
+        "image": "assets/img/a_2_d_8.jpeg",
+        "word": "emergency stop handle / dark red signs"
       },
       {
         "id": "k_9",
-        "image": "assets/img/a_2_d_9.png",
-        "word": "sad/cheerful"
+        "image": "assets/img/a_2_d_9.jpeg",
+        "word": "Don't Touch sticker / turquoise labels"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Where are the seat covers?",
-        "text_b": "They are on the left, beside the navy blue boxes.",
+        "text_a": "Where are the protective aprons?",
+        "text_b": "They are on the right, beside the navy blue boxes.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.png",
-        "text_a": "Where are the inspection mirrors?",
-        "text_b": "They are on the right, in between the silver trays.",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "Where are the inspection gauges?",
+        "text_b": "They are on the left, in between the silver trays.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "Where is the tyre pressure chart?",
+        "text_a": "Where is the lubrication chart?",
         "text_b": "It is on the left, above the brown rags.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
@@ -195,23 +195,23 @@
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
-        "text_a": "Where are the fender covers?",
-        "text_b": "They are on the left, next to the black stands.",
+        "text_a": "Where are the machine covers?",
+        "text_b": "They are on the right, next to the black stands.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.png",
-        "text_a": "Where is the fire extinguisher?",
-        "text_b": "It is on the right, in front of the dark red cones.",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "Where is the emergency stop handle?",
+        "text_b": "It is on the left, in front of the dark red signs.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.png",
-        "text_a": "Where is the battery warning sticker?",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "Where is the Don’t Touch sticker?",
         "text_b": "It is on the right, above the turquoise labels.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
@@ -526,365 +526,345 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What type of vehicle did the trainees service yesterday?",
-            "answer": "A petrol training vehicle",
+            "question": "Where did the maintenance work take place yesterday?",
+            "answer": "In the Mechanical Technology workshop",
             "options": [
-              "A diesel training vehicle",
-              "A petrol training vehicle",
-              "A hybrid passenger car"
+              "In the training room",
+              "In the Mechanical Technology workshop",
+              "In the Mechatronics Technology workshop"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Which tool was missing at the beginning of the work?",
-            "answer": "A torque wrench",
+            "question": "What problem was noticed at the beginning of the task?",
+            "answer": "Some tools were not in the right place.",
             "options": [
-              "A hydraulic jack",
-              "A diagnostic scanner",
-              "A torque wrench"
+              "There were too many steps to follow.",
+              "The job sheet was in the wrong place.",
+              "Some tools were not in the right place."
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why was the engine sound uneven at first?",
-            "answer": "Because the ignition timing was not correct.",
+            "question": "What specific issue made the lathe unsafe at the beginning?",
+            "answer": "A few loose bolts creating excessive vibration",
             "options": [
-              "Because the terminals were unclean.",
-              "Because the camshaft timing was not correct.",
-              "Because the ignition timing was not correct."
+              "Loose bolts causing vibration",
+              "A few loose bolts creating excessive vibration",
+              "Incorrect alignment of the chuck and tailstock"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why was the engine response better after the adjustment?",
-            "answer": "Because the ignition timing was corrected.",
+            "question": "What happened after the final inspection?",
+            "answer": "The machines were vibrating slightly but stable.",
             "options": [
-              "Because the vibration was loud.",
-              "Because the warning lights were replaced.",
-              "Because the ignition timing was corrected."
+              "The machines were noisy and unstable.",
+              "The machines were smooth and unstable.",
+              "The machines were vibrating slightly but stable."
             ]
           },
           {
             "id": "l_4_5",
-            "question": "What kind of engine are the trainees going to work on next week?",
-            "answer": "A high-capacity diesel engine",
+            "question": "What are they going to do next week?",
+            "answer": "Assemble a test unit and record performance data",
             "options": [
-              "A two-stroke engine",
-              "A high-capacity diesel engine",
-              "A medium-capacity diesel engine"
+              "Assemble a test unit and check performance data",
+              "Assemble a test unit and record performance data",
+              "Clean the workshop and record data"
             ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_6_1",
+          "text": "Yesterday was honestly hectic in the Mechanical Technology workshop.",
+          "audio": "assets/audio/t_6_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "The place was quite noisy and hot.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_6_2",
+          "text": "We serviced several training machines in the new practical bay near the stores.",
+          "audio": "assets/audio/t_6_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "We serviced a petrol training car near Bay Three.",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "t_6_3",
+          "text": "It wasn’t a small task.",
+          "audio": "assets/audio/t_6_3.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "It is not a small task for first-time trainees.",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "t_6_4",
+          "text": "There were  a lathe machine, a milling machine, a hydraulic press, and the air compressor running at the same time.",
+          "audio": "assets/audio/t_6_4.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_6_5",
+          "text": "The work was demanding, but the workshop is secure now, and that’s what matters.",
+          "audio": "assets/audio/t_6_5.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "So, how did you feel doing your first full engine service?",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_6_6",
+          "text": "Everyone felt the pressure, but we finished the job.",
+          "audio": "assets/audio/t_6_6.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "Honestly, I didn’t expect it to be so demanding.",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "t_6_7",
+          "text": "So, how did you feel doing your first full maintenance task?",
+          "audio": "assets/audio/t_6_7.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_6_8",
+          "text": "To be honest, it was tougher than I expected.",
+          "audio": "assets/audio/t_6_8.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "The torque wrench was missing at the start, and the diagnostic scanner was in another section.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_6_9",
+          "text": "There are many steps to follow, and you can’t skip any of them.",
+          "audio": "assets/audio/t_6_9.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_6_10",
+          "text": "First, the job sheet wasn’t very clear, so that was confusing.",
+          "audio": "assets/audio/t_6_10.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "Yes, and the engine bay was very tight.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_6_11",
+          "text": "Then some tools weren’t in the right place, and one spanner set was incomplete.",
+          "audio": "assets/audio/t_6_11.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_6_12",
+          "text": "The measurements were correct later, but in the morning they were off.",
+          "audio": "assets/audio/t_6_12.mp3"
         },
         {
-          "id": "t_1_13",
-          "text": "The spark plugs were worn, and the air filter was dirty.",
-          "audio": "assets/audio/t_1_13.mp3"
+          "id": "t_6_13",
+          "text": "Adjusting the lathe parameters was not easy.",
+          "audio": "assets/audio/t_6_13.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_6_14",
+          "text": "I aligned the tailstock, checked the chuck, and cleaned the bed.",
+          "audio": "assets/audio/t_6_14.mp3"
         },
         {
-          "id": "t_1_15",
-          "text": "The drain pan was placed correctly, but one bolt was too tight.",
-          "audio": "assets/audio/t_1_15.mp3"
+          "id": "t_6_15",
+          "text": "A few bolts were loose, and that caused some vibration.",
+          "audio": "assets/audio/t_6_15.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "That’s normal for older training vehicles.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_6_16",
+          "text": "The machine wasn’t safe at first, so we stopped it.",
+          "audio": "assets/audio/t_6_16.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_6_17",
+          "text": "Yes, planning is everything in mechanical work.",
+          "audio": "assets/audio/t_6_17.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "The lift has to be stable, and the wheel chocks have to be secure.",
-          "audio": "assets/audio/t_1_18.mp3"
+          "id": "t_6_18",
+          "text": "If the alignment is wrong, the whole operation becomes unsafe.",
+          "audio": "assets/audio/t_6_18.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "I noticed the battery voltage was low.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_6_19",
+          "text": "The lubrication system was mostly fine, but one oil line was blocked.",
+          "audio": "assets/audio/t_6_19.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_6_20",
+          "text": "That  was fixable.",
+          "audio": "assets/audio/t_6_20.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_6_21",
+          "text": "It was quite tense once the machines were running.",
+          "audio": "assets/audio/t_6_21.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "The reading was low, but the terminals were clean.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_6_22",
+          "text": "The checks were strict, and everyone stayed focused.",
+          "audio": "assets/audio/t_6_22.mp3"
         },
         {
-          "id": "t_1_23",
-          "text": "At first, the engine sound was not smooth, and we weren’t sure why.",
-          "audio": "assets/audio/t_1_23.mp3"
+          "id": "t_6_23",
+          "text": "We all knew that there was no room for mistakes.",
+          "audio": "assets/audio/t_6_23.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_6_24",
+          "text": "After the final inspection, the machines were smooth and stable.",
+          "audio": "assets/audio/t_6_24.mp3"
         },
         {
-          "id": "t_1_25",
-          "text": "The error code was related to ignition timing.",
-          "audio": "assets/audio/t_1_25.mp3"
+          "id": "t_6_25",
+          "text": "The noise level is normal now, and the vibration is low.",
+          "audio": "assets/audio/t_6_25.mp3"
         },
         {
-          "id": "t_1_26",
-          "text": "After the adjustment, the engine response was better.",
-          "audio": "assets/audio/t_1_26.mp3"
+          "id": "t_6_26",
+          "text": "Not every adjustment was perfect, but the setup meets the standards.",
+          "audio": "assets/audio/t_6_26.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_6_27",
+          "text": "Today, the workshop is much quieter.",
+          "audio": "assets/audio/t_6_27.mp3"
         },
         {
-          "id": "t_1_28",
-          "text": "The temperature gauge was normal, and there were no warning lights.",
-          "audio": "assets/audio/t_1_28.mp3"
+          "id": "t_6_28",
+          "text": "There’s no heavy operation going on.",
+          "audio": "assets/audio/t_6_28.mp3"
         },
         {
-          "id": "t_1_29",
-          "text": "It was a big relief.",
-          "audio": "assets/audio/t_1_29.mp3"
+          "id": "t_6_29",
+          "text": "This morning we are cleaning tools and checking safety guards only.",
+          "audio": "assets/audio/t_6_29.mp3"
         },
         {
-          "id": "t_1_30",
-          "text": "Good work.",
-          "audio": "assets/audio/t_1_30.mp3"
+          "id": "t_6_30",
+          "text": "Next week, you’re going to assemble a test unit and record performance data.",
+          "audio": "assets/audio/t_6_30.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "Today the workshop is quieter.",
-          "audio": "assets/audio/t_1_31.mp3"
-        },
-        {
-          "id": "t_1_32",
-          "text": "There is no heavy servicing planned.",
-          "audio": "assets/audio/t_1_32.mp3"
-        },
-        {
-          "id": "t_1_33",
-          "text": "We are just checking reports and tools.",
-          "audio": "assets/audio/t_1_33.mp3"
-        },
-        {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
-        },
-        {
-          "id": "t_1_35",
+          "id": "t_6_31",
           "text": "Sounds good.",
-          "audio": "assets/audio/t_1_35.mp3"
+          "audio": "assets/audio/t_6_31.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_6_32",
+          "text": "Next time, we’re going to prepare better.",
+          "audio": "assets/audio/t_6_32.mp3"
         },
         {
-          "id": "t_1_37",
-          "text": "Next time, we are going to prepare better and organise the tools in advance.",
-          "audio": "assets/audio/t_1_37.mp3"
+          "id": "t_6_33",
+          "text": "Now we know what works, what fails, and how to solve problems faster.",
+          "audio": "assets/audio/t_6_33.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_6_1",
+          "text": "Yesterday was honestly hectic in the Mechanical Technology workshop.",
+          "audio": "assets/audio/t_6_1.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_6_4",
+          "text": "There were  a lathe machine, a milling machine, a hydraulic press, and the air compressor running at the same time.",
+          "audio": "assets/audio/t_6_4.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_6_7",
+          "text": "So, how did you feel doing your first full maintenance task?",
+          "audio": "assets/audio/t_6_7.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_6_9",
+          "text": "There are many steps to follow, and you can’t skip any of them.",
+          "audio": "assets/audio/t_6_9.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_6_11",
+          "text": "Then some tools weren’t in the right place, and one spanner set was incomplete.",
+          "audio": "assets/audio/t_6_11.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_6_15",
+          "text": "A few bolts were loose, and that caused some vibration.",
+          "audio": "assets/audio/t_6_15.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_6_19",
+          "text": "The lubrication system was mostly fine, but one oil line was blocked.",
+          "audio": "assets/audio/t_6_19.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_6_21",
+          "text": "It was quite tense once the machines were running.",
+          "audio": "assets/audio/t_6_21.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_6_23",
+          "text": "We all knew that there was no room for mistakes.",
+          "audio": "assets/audio/t_6_23.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_6_24",
+          "text": "After the final inspection, the machines were smooth and stable.",
+          "audio": "assets/audio/t_6_24.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_6_30",
+          "text": "Next week, you’re going to assemble a test unit and record performance data.",
+          "audio": "assets/audio/t_6_30.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_6_32",
+          "text": "Next time, we’re going to prepare better.",
+          "audio": "assets/audio/t_6_32.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_6_1",
+          "text": "Yesterday was honestly hectic in the Mechanical Technology workshop.",
+          "audio": "assets/audio/t_6_1.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_6_4",
+          "text": "There were  a lathe machine, a milling machine, a hydraulic press, and the air compressor running at the same time.",
+          "audio": "assets/audio/t_6_4.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_6_7",
+          "text": "So, how did you feel doing your first full maintenance task?",
+          "audio": "assets/audio/t_6_7.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_6_9",
+          "text": "There are many steps to follow, and you can’t skip any of them.",
+          "audio": "assets/audio/t_6_9.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_6_11",
+          "text": "Then some tools weren’t in the right place, and one spanner set was incomplete.",
+          "audio": "assets/audio/t_6_11.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_6_15",
+          "text": "A few bolts were loose, and that caused some vibration.",
+          "audio": "assets/audio/t_6_15.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_6_19",
+          "text": "The lubrication system was mostly fine, but one oil line was blocked.",
+          "audio": "assets/audio/t_6_19.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_6_21",
+          "text": "It was quite tense once the machines were running.",
+          "audio": "assets/audio/t_6_21.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_6_23",
+          "text": "We all knew that there was no room for mistakes.",
+          "audio": "assets/audio/t_6_23.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_6_24",
+          "text": "After the final inspection, the machines were smooth and stable.",
+          "audio": "assets/audio/t_6_24.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_6_30",
+          "text": "Next week, you’re going to assemble a test unit and record performance data.",
+          "audio": "assets/audio/t_6_30.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_6_32",
+          "text": "Next time, we’re going to prepare better.",
+          "audio": "assets/audio/t_6_32.mp3"
         }
       ]
     }

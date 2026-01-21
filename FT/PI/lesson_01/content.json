@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "f'i'lter",
+        "word_text": "s'i'fters",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The oil f'i'lter in the combustion engine is very dirty after prolonged testing today.",
+        "sentence_text": "The s'i'fters are clean and ready for the flour preparation process.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "gask'e't",
+        "word_text": "v'i'n'e'gar",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Gask'e'ts are essential for preventing leaks of essential fluids like oil, coolant and fuel.",
+        "sentence_text": "The v'i'n'e'gar in these bottles is mature enough for food processing.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "r'i'vet",
+        "word_text": "m'i'n'c'ers",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A r'i'vet is a permanent, mechanical fastener used to securely join two or more materials.",
+        "sentence_text": "Meat m'i'n'c'ers are on the left, next to the new blast chiller.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "d'i'pst'i'ck",
+        "word_text": "s'i'mmer'i'ng",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Wiping the d'i'pst'i'ck with a cloth before checking the oil level is a common practice.",
+        "sentence_text": "S'i'mmer'i'ng food is similar to slow, low-temperature cooking methods.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -98,24 +98,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Where is the oil drain pan?",
-        "text_b": "It is on the left, under the maroon mats.",
+        "text_a": "Where is the wooden ladle?",
+        "text_b": "It is on the right, under the maroon mats.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Where are the wheel chocks?",
-        "text_b": "They are on the right, behind the beige shelves.",
+        "text_a": "Where are the meat mincers?",
+        "text_b": "They are on the left, behind the beige shelves.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "Where is the coolant container?",
-        "text_b": "It is on the right, above the lime green buckets.",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Where is the measuring container?",
+        "text_b": "It is on the left, above the lime green buckets.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -124,78 +124,78 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.jpeg",
-        "word": "tired/rested"
+        "word": "wooden ladle / maroon mats"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "on time/late"
+        "word": "meat mincers / beige shelves"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_3.jpeg",
-        "word": "satisfied/disappointed"
+        "image": "assets/img/a_2_d_3.png",
+        "word": "measuring container / lime green buckets"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "cold/hot"
+        "word": "industrial French fries machines / navy blue boxes"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "tasty/awful"
+        "word": "fish scalers / silver trays"
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_6.jpeg",
-        "word": "sad/cheerful"
+        "image": "assets/img/a_2_d_6.png",
+        "word": "oven temperature chart / brown rags"
       },
       {
         "id": "k_7",
         "image": "assets/img/a_2_d_7.png",
-        "word": "cold/hot"
+        "word": "tray covers / black stands"
       },
       {
         "id": "k_8",
         "image": "assets/img/a_2_d_8.png",
-        "word": "tasty/awful"
+        "word": "fire blanket / dark red signs"
       },
       {
         "id": "k_9",
-        "image": "assets/img/a_2_d_9.png",
-        "word": "sad/cheerful"
+        "image": "assets/img/a_2_d_9.jpeg",
+        "word": "pepper stickers / turquoise labels"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Where are the seat covers?",
-        "text_b": "They are on the left, beside the navy blue boxes.",
+        "text_a": "Where are the industrial French fries machines?",
+        "text_b": "They are on the right, beside the navy blue boxes.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Where are the inspection mirrors?",
-        "text_b": "They are on the right, in between the silver trays.",
+        "text_a": "Where are the fish scalers?",
+        "text_b": "They are on the left, in between the silver trays.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "Where is the tyre pressure chart?",
-        "text_b": "It is on the left, above the brown rags.",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Where is the oven temperature chart?",
+        "text_b": "It is on the right, above the brown rags.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
-        "text_a": "Where are the fender covers?",
+        "text_a": "Where are the tray covers?",
         "text_b": "They are on the left, next to the black stands.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
@@ -203,16 +203,16 @@
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "Where is the fire extinguisher?",
-        "text_b": "It is on the right, in front of the dark red cones.",
+        "text_a": "Where is the fire blanket?",
+        "text_b": "It is on the right, in front of the dark red signs.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.png",
-        "text_a": "Where is the battery warning sticker?",
-        "text_b": "It is on the right, above the turquoise labels.",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "Where are the pepper stickers?",
+        "text_b": "They are on the left, above the turquoise labels.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
@@ -526,365 +526,341 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What type of vehicle did the trainees service yesterday?",
-            "answer": "A petrol training vehicle",
+            "question": "What kind of cake did the trainees bake?",
+            "answer": "A rich and spicy love cake",
             "options": [
-              "A diesel training vehicle",
-              "A petrol training vehicle",
-              "A hybrid passenger car"
+              "A light sponge cake",
+              "A rich and spicy love cake",
+              "A rich but light love cake"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Which tool was missing at the beginning of the work?",
-            "answer": "A torque wrench",
-            "options": [
-              "A hydraulic jack",
-              "A diagnostic scanner",
-              "A torque wrench"
-            ]
+            "question": "Which ingredient was not enough at the beginning?",
+            "answer": "Cashew nuts",
+            "options": ["Margarine", "Chestnuts", "Cashew nuts"]
           },
           {
             "id": "l_4_3",
-            "question": "Why was the engine sound uneven at first?",
-            "answer": "Because the ignition timing was not correct.",
+            "question": "Why was timing very important when baking the cake?",
+            "answer": "Because love cake is very sensitive to temperature",
             "options": [
-              "Because the terminals were unclean.",
-              "Because the camshaft timing was not correct.",
-              "Because the ignition timing was not correct."
+              "Because love cake is not sensitive to temperature",
+              "Because love cake is very sensitive to temperature",
+              "Because love cake is less sensitive to temperature than other cakes"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why was the engine response better after the adjustment?",
-            "answer": "Because the ignition timing was corrected.",
+            "question": "What happens if the oven temperature is too hot?",
+            "answer": "The cake is dry outside and raw inside",
             "options": [
-              "Because the vibration was loud.",
-              "Because the warning lights were replaced.",
-              "Because the ignition timing was corrected."
+              "The cake is dry and raw outside",
+              "The cake is dry outside and raw inside",
+              "The cake is moist outside and raw inside"
             ]
           },
           {
             "id": "l_4_5",
-            "question": "What kind of engine are the trainees going to work on next week?",
-            "answer": "A high-capacity diesel engine",
+            "question": "How many people are going to bake the cake next time?",
+            "answer": "More than one thousand three hundred people",
             "options": [
-              "A two-stroke engine",
-              "A high-capacity diesel engine",
-              "A medium-capacity diesel engine"
+              "One thousand three hundred people",
+              "More than one thousand three hundred people",
+              "Nearly one thousand three hundred people"
             ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_3_1",
+          "text": "Yesterday, it was so busy here.",
+          "audio": "assets/audio/t_3_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "The place was quite noisy and hot.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_3_2",
+          "text": "We baked a love cake for three hundred people, and this cake is not like a normal sponge cake.",
+          "audio": "assets/audio/t_3_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "We serviced a petrol training car near Bay Three.",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "t_3_3",
+          "text": "It is heavy, rich, and full of spices and requires special skills.",
+          "audio": "assets/audio/t_3_3.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "It is not a small task for first-time trainees.",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "t_3_4",
+          "text": "Everyone was on edge, but we did it!",
+          "audio": "assets/audio/t_3_4.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_3_5",
+          "text": "How did you like the experience of making your first love cake?",
+          "audio": "assets/audio/t_3_5.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "So, how did you feel doing your first full engine service?",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_3_6",
+          "text": "I didn’t know that love cake had so many ingredients: semolina, butter, eggs, cashew nuts, and a lot of spices.",
+          "audio": "assets/audio/t_3_6.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "Honestly, I didn’t expect it to be so demanding.",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "t_3_7",
+          "text": "We had a few tricky moments, too.",
+          "audio": "assets/audio/t_3_7.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_3_8",
+          "text": "At first, the digital scale was not accurate, so that was annoying.",
+          "audio": "assets/audio/t_3_8.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "The torque wrench was missing at the start, and the diagnostic scanner was in another section.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_3_9",
+          "text": "We were short on cashew nuts, but we had too much margarine.",
+          "audio": "assets/audio/t_3_9.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_3_10",
+          "text": "That’s why we had to make some adjustments.",
+          "audio": "assets/audio/t_3_10.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "Yes, and the engine bay was very tight.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_3_11",
+          "text": "The planetary mixer was unusually loud.",
+          "audio": "assets/audio/t_3_11.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_3_12",
+          "text": "I chopped over 2 kilograms of cashew nuts, grated some pumpkin preserve, and checked 5 baking trays.",
+          "audio": "assets/audio/t_3_12.mp3"
         },
         {
-          "id": "t_1_13",
-          "text": "The spark plugs were worn, and the air filter was dirty.",
-          "audio": "assets/audio/t_1_13.mp3"
+          "id": "t_3_13",
+          "text": "Some trays are a bit rusty, so they are not usable.",
+          "audio": "assets/audio/t_3_13.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_3_14",
+          "text": "A few students were late, and that was not helpful, especially with a tight schedule.",
+          "audio": "assets/audio/t_3_14.mp3"
         },
         {
-          "id": "t_1_15",
-          "text": "The drain pan was placed correctly, but one bolt was too tight.",
-          "audio": "assets/audio/t_1_15.mp3"
+          "id": "t_3_15",
+          "text": "Yes, timing is everything.",
+          "audio": "assets/audio/t_3_15.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "That’s normal for older training vehicles.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_3_16",
+          "text": "Love cake is very sensitive.",
+          "audio": "assets/audio/t_3_16.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_3_17",
+          "text": "If the oven temperature is just a few degrees too hot, the cake is too dry outside and raw inside.",
+          "audio": "assets/audio/t_3_17.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "The lift has to be stable, and the wheel chocks have to be secure.",
-          "audio": "assets/audio/t_1_18.mp3"
+          "id": "t_3_18",
+          "text": "The batter was correct, but one batch was a bit uneven.",
+          "audio": "assets/audio/t_3_18.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "I noticed the battery voltage was low.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_3_19",
+          "text": "That was not ideal, but it was fixable.",
+          "audio": "assets/audio/t_3_19.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_3_20",
+          "text": "The timers were set correctly, and the trays were rotated carefully.",
+          "audio": "assets/audio/t_3_20.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_3_21",
+          "text": "Yes, I still feel the excitement.",
+          "audio": "assets/audio/t_3_21.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "The reading was low, but the terminals were clean.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_3_22",
+          "text": "When the cakes were inside the oven, the kitchen felt intense.",
+          "audio": "assets/audio/t_3_22.mp3"
         },
         {
-          "id": "t_1_23",
-          "text": "At first, the engine sound was not smooth, and we weren’t sure why.",
-          "audio": "assets/audio/t_1_23.mp3"
+          "id": "t_3_23",
+          "text": "The alarms went off quite often, and nobody could relax.",
+          "audio": "assets/audio/t_3_23.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_3_24",
+          "text": "After a few hours, the cakes were ready.",
+          "audio": "assets/audio/t_3_24.mp3"
         },
         {
-          "id": "t_1_25",
-          "text": "The error code was related to ignition timing.",
-          "audio": "assets/audio/t_1_25.mp3"
+          "id": "t_3_25",
+          "text": "The colour was deep brown, and the smell was amazing.",
+          "audio": "assets/audio/t_3_25.mp3"
         },
         {
-          "id": "t_1_26",
-          "text": "After the adjustment, the engine response was better.",
-          "audio": "assets/audio/t_1_26.mp3"
+          "id": "t_3_26",
+          "text": "Not every piece was perfect, but the texture was right.",
+          "audio": "assets/audio/t_3_26.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_3_27",
+          "text": "At the end of the day, we were all relieved that everything was done and the customer was pleased with the quality.",
+          "audio": "assets/audio/t_3_27.mp3"
         },
         {
-          "id": "t_1_28",
-          "text": "The temperature gauge was normal, and there were no warning lights.",
-          "audio": "assets/audio/t_1_28.mp3"
+          "id": "t_3_28",
+          "text": "Today, it is very quiet here.",
+          "audio": "assets/audio/t_3_28.mp3"
         },
         {
-          "id": "t_1_29",
-          "text": "It was a big relief.",
-          "audio": "assets/audio/t_1_29.mp3"
+          "id": "t_3_29",
+          "text": "There is an order only for 1 cake.",
+          "audio": "assets/audio/t_3_29.mp3"
         },
         {
-          "id": "t_1_30",
-          "text": "Good work.",
-          "audio": "assets/audio/t_1_30.mp3"
+          "id": "t_3_30",
+          "text": "That should be easy now.",
+          "audio": "assets/audio/t_3_30.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "Today the workshop is quieter.",
-          "audio": "assets/audio/t_1_31.mp3"
+          "id": "t_3_31",
+          "text": "Next month, you are going to bake the same cake for more than 1300 people.",
+          "audio": "assets/audio/t_3_31.mp3"
         },
         {
-          "id": "t_1_32",
-          "text": "There is no heavy servicing planned.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_3_32",
+          "text": "Next time, we are going to plan it better.",
+          "audio": "assets/audio/t_3_32.mp3"
         },
         {
-          "id": "t_1_33",
-          "text": "We are just checking reports and tools.",
-          "audio": "assets/audio/t_1_33.mp3"
-        },
-        {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
-        },
-        {
-          "id": "t_1_35",
-          "text": "Sounds good.",
-          "audio": "assets/audio/t_1_35.mp3"
-        },
-        {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
-        },
-        {
-          "id": "t_1_37",
-          "text": "Next time, we are going to prepare better and organise the tools in advance.",
-          "audio": "assets/audio/t_1_37.mp3"
+          "id": "t_3_33",
+          "text": "Now we know what works and what doesn’t.",
+          "audio": "assets/audio/t_3_33.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_3_3",
+          "text": "It is heavy, rich, and full of spices and requires special skills.",
+          "audio": "assets/audio/t_3_3.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_3_4",
+          "text": "Everyone was on edge, but we did it!",
+          "audio": "assets/audio/t_3_4.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_3_6",
+          "text": "I didn’t know that love cake had so many ingredients: semolina, butter, eggs, cashew nuts, and a lot of spices.",
+          "audio": "assets/audio/t_3_6.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_3_9",
+          "text": "We were short on cashew nuts, but we had too much margarine.",
+          "audio": "assets/audio/t_3_9.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_3_12",
+          "text": "I chopped over 2 kilograms of cashew nuts, grated some pumpkin preserve, and checked 5 baking trays.",
+          "audio": "assets/audio/t_3_12.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_3_13",
+          "text": "Some trays are a bit rusty, so they are not usable.",
+          "audio": "assets/audio/t_3_13.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_3_15",
+          "text": "Yes, timing is everything.",
+          "audio": "assets/audio/t_3_15.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_3_16",
+          "text": "Love cake is very sensitive.",
+          "audio": "assets/audio/t_3_16.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_3_17",
+          "text": "If the oven temperature is just a few degrees too hot, the cake is too dry outside and raw inside.",
+          "audio": "assets/audio/t_3_17.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_3_20",
+          "text": "The timers were set correctly, and the trays were rotated carefully.",
+          "audio": "assets/audio/t_3_20.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_3_25",
+          "text": "The colour was deep brown, and the smell was amazing.",
+          "audio": "assets/audio/t_3_25.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_3_27",
+          "text": "At the end of the day, we were all relieved that everything was done and the customer was pleased with the quality.",
+          "audio": "assets/audio/t_3_27.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_3_3",
+          "text": "It is heavy, rich, and full of spices and requires special skills.",
+          "audio": "assets/audio/t_3_3.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_3_4",
+          "text": "Everyone was on edge, but we did it!",
+          "audio": "assets/audio/t_3_4.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_3_6",
+          "text": "I didn’t know that love cake had so many ingredients: semolina, butter, eggs, cashew nuts, and a lot of spices.",
+          "audio": "assets/audio/t_3_6.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_3_9",
+          "text": "We were short on cashew nuts, but we had too much margarine.",
+          "audio": "assets/audio/t_3_9.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_3_12",
+          "text": "I chopped over 2 kilograms of cashew nuts, grated some pumpkin preserve, and checked 5 baking trays.",
+          "audio": "assets/audio/t_3_12.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_3_13",
+          "text": "Some trays are a bit rusty, so they are not usable.",
+          "audio": "assets/audio/t_3_13.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_3_15",
+          "text": "Yes, timing is everything.",
+          "audio": "assets/audio/t_3_15.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_3_16",
+          "text": "Love cake is very sensitive.",
+          "audio": "assets/audio/t_3_16.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_3_17",
+          "text": "If the oven temperature is just a few degrees too hot, the cake is too dry outside and raw inside.",
+          "audio": "assets/audio/t_3_17.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_3_20",
+          "text": "The timers were set correctly, and the trays were rotated carefully.",
+          "audio": "assets/audio/t_3_20.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_3_25",
+          "text": "The colour was deep brown, and the smell was amazing.",
+          "audio": "assets/audio/t_3_25.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_3_27",
+          "text": "At the end of the day, we were all relieved that everything was done and the customer was pleased with the quality.",
+          "audio": "assets/audio/t_3_27.mp3"
         }
       ]
     }

@@ -526,365 +526,370 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What type of vehicle did the trainees service yesterday?",
-            "answer": "A petrol training vehicle",
+            "question": "Which activity were the trainees carrying out during the session?",
+            "answer": "Troubleshooting power supply circuits",
             "options": [
-              "A diesel training vehicle",
-              "A petrol training vehicle",
-              "A hybrid passenger car"
+              "Testing broken boards",
+              "Checking first year trainee tasks",
+              "Troubleshooting power supply circuits"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Which tool was missing at the beginning of the work?",
-            "answer": "A torque wrench",
+            "question": "Which piece of equipment caused a delay at the beginning of the task?",
+            "answer": "The oscilloscope",
             "options": [
-              "A hydraulic jack",
-              "A diagnostic scanner",
-              "A torque wrench"
+              "The multimetre",
+              "The circuit diagram",
+              "The oscilloscope"
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why was the engine sound uneven at first?",
-            "answer": "Because the ignition timing was not correct.",
+            "question": "Why was the circuit unreliable at the start of testing?",
+            "answer": "Because some solder joints were not clean",
             "options": [
-              "Because the terminals were unclean.",
-              "Because the camshaft timing was not correct.",
-              "Because the ignition timing was not correct."
+              "Because the resistor joints were unclean.",
+              "Because the connections were not close together.",
+              "Because some solder joints were not clean"
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why was the engine response better after the adjustment?",
-            "answer": "Because the ignition timing was corrected.",
+            "question": "What indicated that the circuit was working correctly after the repair?",
+            "answer": "The voltage became stable and the LED lit up.",
             "options": [
-              "Because the vibration was loud.",
-              "Because the warning lights were replaced.",
-              "Because the ignition timing was corrected."
+              "The capacitor became stable and lit up.",
+              "The voltage became stable and the LED lit up.",
+              "The oscilloscope is clean and it’s overheating."
             ]
           },
           {
             "id": "l_4_5",
-            "question": "What kind of engine are the trainees going to work on next week?",
-            "answer": "A high-capacity diesel engine",
+            "question": "What task are the trainees going to do next week?",
+            "answer": "Assemble a control circuit and record voltage readings",
             "options": [
-              "A two-stroke engine",
-              "A high-capacity diesel engine",
-              "A medium-capacity diesel engine"
+              "Clean benches and check tools",
+              "Assemble a new power board and record readings",
+              "Assemble a control circuit and record voltage readings"
             ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_5_1",
+          "text": "Yesterday was honestly a busy day in the Electronic Technology lab.",
+          "audio": "assets/audio/t_5_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "The place was quite noisy and hot.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_5_2",
+          "text": "The room was hot, and the benches were full.",
+          "audio": "assets/audio/t_5_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "We serviced a petrol training car near Bay Three.",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "t_5_3",
+          "text": "We tested several power supply circuits near Bench Four.",
+          "audio": "assets/audio/t_5_3.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "It is not a small task for first-time trainees.",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "t_5_4",
+          "text": "It wasn’t an easy task for first-year trainees.",
+          "audio": "assets/audio/t_5_4.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_5_5",
+          "text": "The boards were mostly fine, but a few components were faulty.",
+          "audio": "assets/audio/t_5_5.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "So, how did you feel doing your first full engine service?",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_5_6",
+          "text": "So, how did you feel doing your first full troubleshooting session?",
+          "audio": "assets/audio/t_5_6.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "Honestly, I didn’t expect it to be so demanding.",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "t_5_7",
+          "text": "To be honest, it was harder than I expected.",
+          "audio": "assets/audio/t_5_7.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_5_8",
+          "text": "The circuit diagram was on the board, but it wasn’t very clear at first.",
+          "audio": "assets/audio/t_5_8.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "The torque wrench was missing at the start, and the diagnostic scanner was in another section.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_5_9",
+          "text": "The multimeter was available, but the oscilloscope was in another lab.",
+          "audio": "assets/audio/t_5_9.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_5_10",
+          "text": "That setup wasn’t ideal, and it slowed us down.",
+          "audio": "assets/audio/t_5_10.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "Yes, and the engine bay was very tight.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_5_11",
+          "text": "Yes, and the PCB was small, so the connections were close together.",
+          "audio": "assets/audio/t_5_11.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_5_12",
+          "text": "The resistors were correct, but one capacitor was damaged.",
+          "audio": "assets/audio/t_5_12.mp3"
         },
         {
-          "id": "t_1_13",
-          "text": "The spark plugs were worn, and the air filter was dirty.",
-          "audio": "assets/audio/t_1_13.mp3"
+          "id": "t_5_13",
+          "text": "The solder joints were not clean in some places.",
+          "audio": "assets/audio/t_5_13.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_5_14",
+          "text": "That was a problem, and the circuit wasn’t stable at the beginning.",
+          "audio": "assets/audio/t_5_14.mp3"
         },
         {
-          "id": "t_1_15",
-          "text": "The drain pan was placed correctly, but one bolt was too tight.",
-          "audio": "assets/audio/t_1_15.mp3"
+          "id": "t_5_15",
+          "text": "That’s a common issue.",
+          "audio": "assets/audio/t_5_15.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "That’s normal for older training vehicles.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_5_16",
+          "text": "In electronics, neat work is essential.",
+          "audio": "assets/audio/t_5_16.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_5_17",
+          "text": "If the soldering is poor, the whole circuit becomes unreliable.",
+          "audio": "assets/audio/t_5_17.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "The lift has to be stable, and the wheel chocks have to be secure.",
-          "audio": "assets/audio/t_1_18.mp3"
+          "id": "t_5_18",
+          "text": "The power input was correct, but the output voltage was low.",
+          "audio": "assets/audio/t_5_18.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "I noticed the battery voltage was low.",
-          "audio": "assets/audio/t_1_19.mp3"
-        },
-        {
-          "id": "t_1_20",
+          "id": "t_5_19",
           "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "audio": "assets/audio/t_5_19.mp3"
         },
         {
-          "id": "t_1_21",
+          "id": "t_5_20",
           "text": "Yes, sir.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "audio": "assets/audio/t_5_20.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "The reading was low, but the terminals were clean.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_5_21",
+          "text": "The reading was low, and it wasn’t changing.",
+          "audio": "assets/audio/t_5_21.mp3"
         },
         {
-          "id": "t_1_23",
-          "text": "At first, the engine sound was not smooth, and we weren’t sure why.",
-          "audio": "assets/audio/t_1_23.mp3"
+          "id": "t_5_22",
+          "text": "At first, the LED wasn’t on, so we thought the board was dead.",
+          "audio": "assets/audio/t_5_22.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_5_23",
+          "text": "But it wasn’t.",
+          "audio": "assets/audio/t_5_23.mp3"
         },
         {
-          "id": "t_1_25",
-          "text": "The error code was related to ignition timing.",
-          "audio": "assets/audio/t_1_25.mp3"
+          "id": "t_5_24",
+          "text": "The fault was in the capacitor, not in the IC.",
+          "audio": "assets/audio/t_5_24.mp3"
         },
         {
-          "id": "t_1_26",
-          "text": "After the adjustment, the engine response was better.",
-          "audio": "assets/audio/t_1_26.mp3"
+          "id": "t_5_25",
+          "text": "After we replaced the capacitor, the circuit response was better.",
+          "audio": "assets/audio/t_5_25.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_5_26",
+          "text": "The voltage is stable now, and the LED is bright.",
+          "audio": "assets/audio/t_5_26.mp3"
         },
         {
-          "id": "t_1_28",
-          "text": "The temperature gauge was normal, and there were no warning lights.",
-          "audio": "assets/audio/t_1_28.mp3"
+          "id": "t_5_27",
+          "text": "There is no overheating, and the waveform looks clean on the oscilloscope.",
+          "audio": "assets/audio/t_5_27.mp3"
         },
         {
-          "id": "t_1_29",
-          "text": "It was a big relief.",
-          "audio": "assets/audio/t_1_29.mp3"
+          "id": "t_5_28",
+          "text": "That was a relief.",
+          "audio": "assets/audio/t_5_28.mp3"
         },
         {
-          "id": "t_1_30",
+          "id": "t_5_29",
           "text": "Good work.",
-          "audio": "assets/audio/t_1_30.mp3"
+          "audio": "assets/audio/t_5_29.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "Today the workshop is quieter.",
-          "audio": "assets/audio/t_1_31.mp3"
+          "id": "t_5_30",
+          "text": "Today, the lab is much quieter.",
+          "audio": "assets/audio/t_5_30.mp3"
         },
         {
-          "id": "t_1_32",
-          "text": "There is no heavy servicing planned.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_5_31",
+          "text": "There’s no testing session going on now.",
+          "audio": "assets/audio/t_5_31.mp3"
         },
         {
-          "id": "t_1_33",
-          "text": "We are just checking reports and tools.",
-          "audio": "assets/audio/t_1_33.mp3"
+          "id": "t_5_32",
+          "text": "We are cleaning benches and checking tools only.",
+          "audio": "assets/audio/t_5_32.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_5_33",
+          "text": "Next week, you’re going to assemble a control circuit and record voltage readings.",
+          "audio": "assets/audio/t_5_33.mp3"
         },
         {
-          "id": "t_1_35",
+          "id": "t_5_34",
           "text": "Sounds good.",
-          "audio": "assets/audio/t_1_35.mp3"
+          "audio": "assets/audio/t_5_34.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_5_35",
+          "text": "Yesterday was tiring, but the training was very useful.",
+          "audio": "assets/audio/t_5_35.mp3"
         },
         {
-          "id": "t_1_37",
-          "text": "Next time, we are going to prepare better and organise the tools in advance.",
-          "audio": "assets/audio/t_1_37.mp3"
+          "id": "t_5_36",
+          "text": "Next time, we’re going to prepare better, check the diagrams early, and  organise the components properly.",
+          "audio": "assets/audio/t_5_36.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_5_1",
+          "text": "Yesterday was honestly a busy day in the Electronic Technology lab.",
+          "audio": "assets/audio/t_5_1.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_5_4",
+          "text": "It wasn’t an easy task for first-year trainees.",
+          "audio": "assets/audio/t_5_4.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_5_6",
+          "text": "So, how did you feel doing your first full troubleshooting session?",
+          "audio": "assets/audio/t_5_6.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_5_7",
+          "text": "To be honest, it was harder than I expected.",
+          "audio": "assets/audio/t_5_7.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_5_9",
+          "text": "The multimeter was available, but the oscilloscope was in another lab.",
+          "audio": "assets/audio/t_5_9.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_5_12",
+          "text": "The resistors were correct, but one capacitor was damaged.",
+          "audio": "assets/audio/t_5_12.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_5_14",
+          "text": "That was a problem, and the circuit wasn’t stable at the beginning.",
+          "audio": "assets/audio/t_5_14.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_5_15",
+          "text": "That’s a common issue.",
+          "audio": "assets/audio/t_5_15.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_5_18",
+          "text": "The power input was correct, but the output voltage was low.",
+          "audio": "assets/audio/t_5_18.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_5_21",
+          "text": "The reading was low, and it wasn’t changing.",
+          "audio": "assets/audio/t_5_21.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_5_26",
+          "text": "The voltage is stable now, and the LED is bright.",
+          "audio": "assets/audio/t_5_26.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_5_28",
+          "text": "That was a relief.",
+          "audio": "assets/audio/t_5_28.mp3"
+        },
+        {
+          "id": "t_5_33",
+          "text": "Next week, you’re going to assemble a control circuit and record voltage readings.",
+          "audio": "assets/audio/t_5_33.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_5_1",
+          "text": "Yesterday was honestly a busy day in the Electronic Technology lab.",
+          "audio": "assets/audio/t_5_1.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_5_4",
+          "text": "It wasn’t an easy task for first-year trainees.",
+          "audio": "assets/audio/t_5_4.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_5_6",
+          "text": "So, how did you feel doing your first full troubleshooting session?",
+          "audio": "assets/audio/t_5_6.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_5_7",
+          "text": "To be honest, it was harder than I expected.",
+          "audio": "assets/audio/t_5_7.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_5_9",
+          "text": "The multimeter was available, but the oscilloscope was in another lab.",
+          "audio": "assets/audio/t_5_9.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_5_12",
+          "text": "The resistors were correct, but one capacitor was damaged.",
+          "audio": "assets/audio/t_5_12.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_5_14",
+          "text": "That was a problem, and the circuit wasn’t stable at the beginning.",
+          "audio": "assets/audio/t_5_14.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_5_15",
+          "text": "That’s a common issue.",
+          "audio": "assets/audio/t_5_15.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_5_18",
+          "text": "The power input was correct, but the output voltage was low.",
+          "audio": "assets/audio/t_5_18.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_5_21",
+          "text": "The reading was low, and it wasn’t changing.",
+          "audio": "assets/audio/t_5_21.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_5_26",
+          "text": "The voltage is stable now, and the LED is bright.",
+          "audio": "assets/audio/t_5_26.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_5_28",
+          "text": "That was a relief.",
+          "audio": "assets/audio/t_5_28.mp3"
+        },
+        {
+          "id": "t_5_33",
+          "text": "Next week, you’re going to assemble a control circuit and record voltage readings.",
+          "audio": "assets/audio/t_5_33.mp3"
         }
       ]
     }

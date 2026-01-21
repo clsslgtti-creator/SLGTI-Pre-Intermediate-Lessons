@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "timber",
+        "word_text": "t'i'mber",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The timber in the back of the shed is true and ready for wall framing. ( means not warped or bent) ",
+        "sentence_text": "The t'i'mber in the back of the shed is true and ready for wall framing. ( means not warped or bent) ",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "shim",
+        "word_text": "sh'i'm",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The shim plate is a thin plate used to fill small gaps when aligning machinery.",
+        "sentence_text": "The sh'i'm plate is a thin plate used to fill small gaps when aligning machinery.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "lintel",
+        "word_text": "l'i'ntel",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The lintel  is strong enough to support the doorway above the entrance opening.",
+        "sentence_text": "The l'i'ntel  is strong enough to support the doorway above the entrance opening.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "lift",
+        "word_text": "l'i'ft",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The crane is used to lift huge concrete beams during heavy construction operations.",
+        "sentence_text": "The crane is used to l'i'ft huge concrete beams during heavy construction operations.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

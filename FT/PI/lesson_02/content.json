@@ -45,7 +45,7 @@
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
         "sentence_text": "Seasoning is a mixture of spices commonly used to add flavour.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
@@ -120,13 +120,13 @@
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
-        "audio_d": "assets/audio/a_2_d_1_d.mp3",
-        "audio_e": "assets/audio/a_2_d_1_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_1_f.mp3"
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.jpeg",
+        "img": "assets/img/a_2_d_2.png",
         "text_a": "Do we need anything for the cooking practical?",
         "text_b": "Yes. We need a litre of fresh coconut milk.",
         "text_c": "A litre of fresh coconut milk?",
@@ -136,13 +136,13 @@
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3",
-        "audio_d": "assets/audio/a_2_d_2_d.mp3",
-        "audio_e": "assets/audio/a_2_d_2_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_2_f.mp3"
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.jpeg",
+        "img": "assets/img/a_2_d_3.png",
         "text_a": "Do we need anything for the recipe test?",
         "text_b": "Yes. We need a gram of food colouring.",
         "text_c": "A gram of food colouring?",
@@ -152,8 +152,8 @@
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3",
-        "audio_d": "assets/audio/a_2_d_3_d.mp3",
-        "audio_e": "assets/audio/a_2_d_3_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_3_f.mp3"
       }
     ],
@@ -175,7 +175,7 @@
       },
       {
         "id": "k_7",
-        "image": "assets/img/a_2_d_7.jpeg",
+        "image": "assets/img/a_2_d_7.png",
         "word": "cold storage"
       },
       {
@@ -192,7 +192,7 @@
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.jpeg",
+        "img": "assets/img/a_2_d_4.png",
         "text_a": "Do we need anything for the pastry work?",
         "text_b": "Yes. We need a slab of chilled butter.",
         "text_c": "A slab of chilled butter?",
@@ -202,13 +202,13 @@
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3",
-        "audio_d": "assets/audio/a_2_d_4_d.mp3",
-        "audio_e": "assets/audio/a_2_d_4_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_4_f.mp3"
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.jpeg",
+        "img": "assets/img/a_2_d_5.png",
         "text_a": "Do we need anything for spice grinding?",
         "text_b": "Yes. We need a batch of dried chillies.",
         "text_c": "A batch of dried chillies?",
@@ -218,13 +218,13 @@
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3",
-        "audio_d": "assets/audio/a_2_d_5_d.mp3",
-        "audio_e": "assets/audio/a_2_d_5_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_5_f.mp3"
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
+        "img": "assets/img/a_2_d_6.png",
         "text_a": "Do we need anything else to serve the guests?",
         "text_b": "Yes. We need a tray of fried cutlets.",
         "text_c": "A tray of fried cutlets?",
@@ -234,13 +234,13 @@
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3",
-        "audio_d": "assets/audio/a_2_d_6_d.mp3",
-        "audio_e": "assets/audio/a_2_d_6_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_6_f.mp3"
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.jpeg",
+        "img": "assets/img/a_2_d_7.png",
         "text_a": "Do we need anything for cold storage?",
         "text_b": "Yes. We need a pack of frozen prawns.",
         "text_c": "A pack of frozen prawns?",
@@ -250,13 +250,13 @@
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
         "audio_c": "assets/audio/a_2_d_7_c.mp3",
-        "audio_d": "assets/audio/a_2_d_7_d.mp3",
-        "audio_e": "assets/audio/a_2_d_7_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_7_f.mp3"
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.jpeg",
+        "img": "assets/img/a_2_d_8.png",
         "text_a": "Do we need anything for juice preparation?",
         "text_b": "Yes. We need a crate of ripe oranges.",
         "text_c": "A crate of ripe oranges?",
@@ -266,13 +266,13 @@
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3",
-        "audio_d": "assets/audio/a_2_d_8_d.mp3",
-        "audio_e": "assets/audio/a_2_d_8_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_8_f.mp3"
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.jpeg",
+        "img": "assets/img/a_2_d_9.png",
         "text_a": "Do we need anything for kitchen cleaning?",
         "text_b": "Yes. We need a roll of absorbent towels.",
         "text_c": "A roll of absorbent towels?",
@@ -282,8 +282,8 @@
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
         "audio_c": "assets/audio/a_2_d_9_c.mp3",
-        "audio_d": "assets/audio/a_2_d_9_d.mp3",
-        "audio_e": "assets/audio/a_2_d_9_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_9_f.mp3"
       }
     ]

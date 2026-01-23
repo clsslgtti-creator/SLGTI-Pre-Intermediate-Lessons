@@ -110,7 +110,7 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.jpeg",
+        "img": "assets/img/a_2_d_1.png",
         "text_a": "Do we need anything for the network setup?",
         "text_b": "Yes. We need a length of Ethernet cable.",
         "text_c": "A length of Ethernet cable?",
@@ -120,13 +120,13 @@
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
-        "audio_d": "assets/audio/a_2_d_1_d.mp3",
-        "audio_e": "assets/audio/a_2_d_1_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_1_f.mp3"
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.jpeg",
+        "img": "assets/img/a_2_d_2.png",
         "text_a": "Do we need anything for computer assembly?",
         "text_b": "Yes. We need a set of compatible RAM modules.",
         "text_c": "A set of compatible RAM modules?",
@@ -136,13 +136,13 @@
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3",
-        "audio_d": "assets/audio/a_2_d_2_d.mp3",
-        "audio_e": "assets/audio/a_2_d_2_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_2_f.mp3"
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.jpeg",
+        "img": "assets/img/a_2_d_3.png",
         "text_a": "Do we need anything for the peripheral setup?",
         "text_b": "Yes. We need a pair of optical mice.",
         "text_c": "A pair of optical mice?",
@@ -152,8 +152,8 @@
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3",
-        "audio_d": "assets/audio/a_2_d_3_d.mp3",
-        "audio_e": "assets/audio/a_2_d_3_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_3_f.mp3"
       }
     ],
@@ -175,7 +175,7 @@
       },
       {
         "id": "k_7",
-        "image": "assets/img/a_2_d_7.jpeg",
+        "image": "assets/img/a_2_d_7.png",
         "word": "network testing activity"
       },
       {
@@ -192,7 +192,7 @@
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.jpeg",
+        "img": "assets/img/a_2_d_4.png",
         "text_a": "Do we need anything for the server room?",
         "text_b": "Yes. We need a rack of mounted servers.",
         "text_c": "A rack of mounted servers?",
@@ -202,13 +202,13 @@
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3",
-        "audio_d": "assets/audio/a_2_d_4_d.mp3",
-        "audio_e": "assets/audio/a_2_d_4_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_4_f.mp3"
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.jpeg",
+        "img": "assets/img/a_2_d_5.png",
         "text_a": "Do we need anything for cable management?",
         "text_b": "Yes. We need a bundle of nylon ties.",
         "text_c": "A bundle of nylon ties?",
@@ -218,13 +218,13 @@
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3",
-        "audio_d": "assets/audio/a_2_d_5_d.mp3",
-        "audio_e": "assets/audio/a_2_d_5_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_5_f.mp3"
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
+        "img": "assets/img/a_2_d_6.png",
         "text_a": "Do we need anything for the power backup system?",
         "text_b": "Yes. We need a unit of backup UPS devices.",
         "text_c": "A unit of backup UPS devices?",
@@ -234,13 +234,13 @@
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3",
-        "audio_d": "assets/audio/a_2_d_6_d.mp3",
-        "audio_e": "assets/audio/a_2_d_6_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_6_f.mp3"
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.jpeg",
+        "img": "assets/img/a_2_d_7.png",
         "text_a": "Do we need anything for network testing activity?",
         "text_b": "Yes. We need a range of diagnostic tools.",
         "text_c": "A range of diagnostic tools?",
@@ -250,13 +250,13 @@
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
         "audio_c": "assets/audio/a_2_d_7_c.mp3",
-        "audio_d": "assets/audio/a_2_d_7_d.mp3",
-        "audio_e": "assets/audio/a_2_d_7_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_7_f.mp3"
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.jpeg",
+        "img": "assets/img/a_2_d_8.png",
         "text_a": "Do we need anything for data storage?",
         "text_b": "Yes. We need a stack of external drives.",
         "text_c": "A stack of external drives?",
@@ -266,13 +266,13 @@
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3",
-        "audio_d": "assets/audio/a_2_d_8_d.mp3",
-        "audio_e": "assets/audio/a_2_d_8_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_8_f.mp3"
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.jpeg",
+        "img": "assets/img/a_2_d_9.png",
         "text_a": "Do we need anything for system maintenance?",
         "text_b": "Yes. We need a set of hardware cleaning tools.",
         "text_c": "A set of hardware cleaning tools?",
@@ -282,8 +282,8 @@
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
         "audio_c": "assets/audio/a_2_d_9_c.mp3",
-        "audio_d": "assets/audio/a_2_d_9_d.mp3",
-        "audio_e": "assets/audio/a_2_d_9_e.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
         "audio_f": "assets/audio/a_2_d_9_f.mp3"
       }
     ]

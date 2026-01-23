@@ -37,7 +37,7 @@
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
         "sentence_text": "The screed is level enough for precise tile installation.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
@@ -53,7 +53,7 @@
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
         "sentence_text": "Creep is a critical concern in long-span concrete structures.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
@@ -110,7 +110,7 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.jpeg",
+        "img": "assets/img/a_2_d_1.png",
         "text_a": "Do we need anything for the concrete mix?",
         "text_b": "Yes. We need a litre of clean water.",
         "text_c": "A litre of clean water?",
@@ -142,7 +142,7 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.jpeg",
+        "img": "assets/img/a_2_d_3.png",
         "text_a": "Do we need anything for the concrete test?",
         "text_b": "Yes. We need a gram of setting agent.",
         "text_c": "A gram of setting agent?",
@@ -192,7 +192,7 @@
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.jpeg",
+        "img": "assets/img/a_2_d_4.png",
         "text_a": "Do we need anything for the formwork?",
         "text_b": "Yes. We need a sheet of coated plywood.",
         "text_c": "A sheet of coated plywood?",
@@ -208,7 +208,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.jpeg",
+        "img": "assets/img/a_2_d_5.png",
         "text_a": "Do we need anything for tying the bars?",
         "text_b": "Yes. We need a coil of binding wire.",
         "text_c": "A coil of binding wire?",
@@ -224,7 +224,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
+        "img": "assets/img/a_2_d_6.png",
         "text_a": "Do we need anything for plastering?",
         "text_b": "Yes. We need a tub of smooth plaster.",
         "text_c": "A tub of smooth plaster?",
@@ -240,7 +240,7 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.jpeg",
+        "img": "assets/img/a_2_d_7.png",
         "text_a": "Do we need anything for waterproofing?",
         "text_b": "Yes. We need a layer of liquid membrane.",
         "text_c": "A layer of liquid membrane?",
@@ -256,7 +256,7 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.jpeg",
+        "img": "assets/img/a_2_d_8.png",
         "text_a": "Do we need anything for the roofing job?",
         "text_b": "Yes. We need a length of galvanized sheet.",
         "text_c": "A length of galvanized sheet?",
@@ -272,7 +272,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.jpeg",
+        "img": "assets/img/a_2_d_9.png",
         "text_a": "Do we need anything for the finishing work?",
         "text_b": "Yes. We need a coat of protective paint.",
         "text_c": "A coat of protective paint?",

@@ -97,14 +97,14 @@
     "tables": [
       [
         ["L / l", "Litre", "A litre of"],
-        [null, null, "A bottle of"],
-        [null, null, "A box of"],
-        [null, null, "A refill of"],
-        [null, null, "A can of"],
-        [null, null, "A roll of"],
-        [null, null, "A pack of"],
-        [null, null, "A tube of"],
-        [null, null, "A canister of"]
+        [" ", " ", "A bottle of"],
+        [" ", " ", "A box of"],
+        [" ", " ", "A refill of"],
+        [" ", " ", "A can of"],
+        [" ", " ", "A roll of"],
+        [" ", " ", "A pack of"],
+        [" ", " ", "A tube of"],
+        [" ", " ", "A canister of"]
       ]
     ],
     "example_dialogues": [

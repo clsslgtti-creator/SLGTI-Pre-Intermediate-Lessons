@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "gr'ea'se",
+        "word_text": "screed",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The gr'ea'se is essential for smooth, high-load gearbox operation.",
+        "sentence_text": "The screed is level enough for precise tile installation.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "bl'ee'd",
+        "word_text": "sheets",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Brake bl'ee'd is necessary for firm pedal response during testing.",
+        "sentence_text": "The sheets are secure enough to resist strong wind loads.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "s'ea'l",
+        "word_text": "creep",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The s'ea'l is critical for preventing leaks in pressurised systems.",
+        "sentence_text": "Creep is a critical concern in long-span concrete structures.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "sl'ee've",
+        "word_text": "reveal",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The sl'ee've is accurately machined for tight piston clearance.",
+        "sentence_text": "The reveal is clean and accurate around finished window openings.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

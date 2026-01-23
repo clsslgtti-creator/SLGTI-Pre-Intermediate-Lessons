@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "gr'ea'se",
+        "word_text": "grease",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The gr'ea'se is essential for smooth, high-load gearbox operation.",
+        "sentence_text": "The grease in the deep fryer is thick and sticky after frying today.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "bl'ee'd",
+        "word_text": "seasoning",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Brake bl'ee'd is necessary for firm pedal response during testing.",
+        "sentence_text": "Seasoning is a mixture of spices commonly used to add flavour.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "s'ea'l",
+        "word_text": "sieves",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The s'ea'l is critical for preventing leaks in pressurised systems.",
+        "sentence_text": "The sieves next to the sink are clean and ready for sifting flour properly.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "sl'ee've",
+        "word_text": "yeast",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The sl'ee've is accurately machined for tight piston clearance.",
+        "sentence_text": "These packets of yeast are in good condition for the bread making process.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

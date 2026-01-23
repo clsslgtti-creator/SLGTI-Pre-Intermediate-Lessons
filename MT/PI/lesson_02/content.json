@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "gr'ea'se",
+        "word_text": "fatigue",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The gr'ea'se is essential for smooth, high-load gearbox operation.",
+        "sentence_text": "Metal fatigue is common in parts under repeated stress.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "bl'ee'd",
+        "word_text": "creep",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Brake bl'ee'd is necessary for firm pedal response during testing.",
+        "sentence_text": "Creep is the gradual deformation of a material under constant pressure.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "s'ea'l",
+        "word_text": "grease",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The s'ea'l is critical for preventing leaks in pressurised systems.",
+        "sentence_text": "The grease on this metal surface is too thick for safe operation.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "sl'ee've",
+        "word_text": "sealant",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The sl'ee've is accurately machined for tight piston clearance.",
+        "sentence_text": "Various sealants are available for indoor and outdoor use.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

@@ -293,11 +293,11 @@
     "instructions": {
       "activity_a": {
         "text": "Match column A to column B. \n A තීරුව B තීරුවට ගළපන්න. \n A நெடுவரிசையை B நெடுவரிசையுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_3_i_a.mp3"
+        "audio": "assets/audio/a_3_i_g.mp3"
       },
       "activity_b": {
         "text": "Read the number and type in the figure. අංකය කියවා එය ඉලක්කම් ලෙස ටයිප් කරන්න. எண்ணை படித்து அதை எண்களாக தட்டச்சு செய்யவும்.",
-        "audio": "assets/audio/a_3_i_b.mp3"
+        "audio": "assets/audio/a_3_i_h.mp3"
       },
       "activity_c": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -370,74 +370,64 @@
       },
       "activity_b": {
         "bg_image": "assets/img/game/bg-5.jpg",
+        "time_per_question_ms": 30000,
         "examples": [
           {
             "id": "e_1",
             "question": "Sixty seven.",
-            "answer": "67",
-            "audio": "assets/audio/a_3_a_e_1.mp3"
+            "answer": "67"
           }
         ],
         "content": [
           {
             "id": "g_b_1",
             "question": "Two hundred and fifty thousand.",
-            "answer": "250000",
-            "audio": "assets/audio/a_3_b_g_1.mp3"
+            "answer": "250000"
           },
           {
             "id": "g_b_2",
             "question": "One million two hundred thousand.",
-            "answer": "1200000",
-            "audio": "assets/audio/a_3_b_g_2.mp3"
+            "answer": "1200000"
           },
           {
             "id": "g_b_3",
             "question": "Six hundred and five thousand two hundred and ten.",
-            "answer": "605210",
-            "audio": "assets/audio/a_3_b_g_3.mp3"
+            "answer": "605210"
           },
           {
             "id": "g_b_4",
             "question": "Two point three million.",
-            "answer": "2300000",
-            "audio": "assets/audio/a_3_b_g_4.mp3"
+            "answer": "2300000"
           },
           {
             "id": "g_b_5",
             "question": "Seven million five hundred and sixty seven thousand two hundred and fifty eight.",
-            "answer": "7567258",
-            "audio": "assets/audio/a_3_b_g_5.mp3"
+            "answer": "7567258"
           },
           {
             "id": "g_b_6",
             "question": "Four hundred and sixty six thousand five hundred and eighty nine.",
-            "answer": "466589",
-            "audio": "assets/audio/a_3_b_g_6.mp3"
+            "answer": "466589"
           },
           {
             "id": "g_b_7",
             "question": "Three point four million.",
-            "answer": "3400000",
-            "audio": "assets/audio/a_3_b_g_7.mp3"
+            "answer": "3400000"
           },
           {
             "id": "g_b_8",
             "question": "Six million eight hundred and seventy three thousand five hundred and thirty two.",
-            "answer": "6873532",
-            "audio": "assets/audio/a_3_b_g_8.mp3"
+            "answer": "6873532"
           },
           {
             "id": "g_b_9",
             "question": "Nine hundred and nine thousand eight hundred and fifteen.",
-            "answer": "909815",
-            "audio": "assets/audio/a_3_b_g_9.mp3"
+            "answer": "909815"
           },
           {
             "id": "g_b_10",
             "question": "Eight million three hundred and forty five thousand six hundred and seventy eight.",
-            "answer": "8345678",
-            "audio": "assets/audio/a_3_b_g_10.mp3"
+            "answer": "8345678"
           }
         ]
       },

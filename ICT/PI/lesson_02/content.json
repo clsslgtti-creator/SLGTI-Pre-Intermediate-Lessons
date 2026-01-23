@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "stream",
+        "word_text": "str'ea'm",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The data stream is stable during online video lessons.",
+        "sentence_text": "The data str'ea'm is stable during online video lessons.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "scheme",
+        "word_text": "sch'e'me",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The network scheme is simple for new ICT trainees.",
+        "sentence_text": "The network sch'e'me is simple for new ICT trainees.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "deep",
+        "word_text": "d'ee'p",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This  folder is deep inside the system directory.",
+        "sentence_text": "This  folder is d'ee'p inside the system directory.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "release",
+        "word_text": "rel'ea'se",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The software release is ready for student testing today.",
+        "sentence_text": "The software rel'ea'se is ready for student testing today.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

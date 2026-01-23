@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "fatigue",
+        "word_text": "fat'i'gue",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Metal fatigue is common in parts under repeated stress.",
+        "sentence_text": "Metal fat'i'gue is common in parts under repeated stress.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "creep",
+        "word_text": "cr''ee'p",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Creep is the gradual deformation of a material under constant pressure.",
+        "sentence_text": "Cr'ee'p is the gradual deformation of a material under constant pressure.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "grease",
+        "word_text": "gr'ea'se",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The grease on this metal surface is too thick for safe operation.",
+        "sentence_text": "The gr'ea'se on this metal surface is too thick for safe operation.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "sealant",
+        "word_text": "s'ea'lant",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Various sealants are available for indoor and outdoor use.",
+        "sentence_text": "Various s'ea'lants are available for indoor and outdoor use.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "screed",
+        "word_text": "scr'ee'd",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The screed is level enough for precise tile installation.",
+        "sentence_text": "The scr'ee'd is level enough for precise tile installation.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "sheets",
+        "word_text": "sh'ee'ts",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The sheets are secure enough to resist strong wind loads.",
+        "sentence_text": "The sh'ee'ts are secure enough to resist strong wind loads.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "creep",
+        "word_text": "cr'ee'p",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Creep is a critical concern in long-span concrete structures.",
+        "sentence_text": "Cr'ee'p is a critical concern in long-span concrete structures.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "reveal",
+        "word_text": "rev'ea'l",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The reveal is clean and accurate around finished window openings.",
+        "sentence_text": "The rev'ea'l is clean and accurate around finished window openings.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

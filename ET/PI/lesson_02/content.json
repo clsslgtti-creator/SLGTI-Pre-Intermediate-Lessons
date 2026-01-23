@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "sheath",
+        "word_text": "sh'ea'th",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The cable sheath is intact despite prolonged mechanical stress.",
+        "sentence_text": "The cable sh'ea'th is intact despite prolonged mechanical stress.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "creepage",
+        "word_text": "cr'ee'page",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Creepage distances are critical for safety in high-voltage equipment.",
+        "sentence_text": "Cr'ee'page distances are critical for safety in high-voltage equipment.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "leakage",
+        "word_text": "l'ea'kage",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Leakage current is unacceptable during insulation resistance testing procedures.",
+        "sentence_text": "L'ea'kage current is unacceptable during insulation resistance testing procedures.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "field",
+        "word_text": "f'ie'ld",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The magnetic field is strong near the electric motor.",
+        "sentence_text": "The magnetic f'ie'ld is strong near the electric motor.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
